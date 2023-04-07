@@ -1,6 +1,6 @@
 ### Hi there I am Harini Chamathka👋
 
-![Harini chamathka](http://raw.githubusercontent.com/IT21269134/IT21269134/main/girl.gif)
+![Harini chamathka](http://raw.githubusercontent.com/IT21269134/IT21269134/main/girl.gif=250x250)
 
 <!--
 **IT21269134/IT21269134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
