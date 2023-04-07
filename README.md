@@ -3,7 +3,7 @@
 <!-- ![Harini chamathka](http://raw.githubusercontent.com/IT21269134/IT21269134/main/girl.gif){width=500 height=500} -->
 
 
-<img style="float: center"  alt="drawing" src="girl.gif"  width="250px" height="500px">
+<img style="float: center"  alt="drawing" src="girl.gif"  width="500px" height="500px">
 
 <!--
 **IT21269134/IT21269134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
