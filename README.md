@@ -2,7 +2,7 @@
  ### <p align ="center"> Software Engineering Undergraduate Student</p>
 
 <p align ="center"> 
-<img style="float: center"  alt="drawing" src="girl.gif"  width="550px" height="550px">
+<img style="float: center"  alt="drawing" src="girl.gif"  width="450px" height=450px">
 </p>
 
 
@@ -20,9 +20,12 @@
 [linkedin]: www.linkedin.com/in/harini-chamathka-kumbukgolla
 
 <p align ="center">
-![Profile views](https://gpvc.arturio.dev/IT21269134)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/IT21269134)
 
 </p>
 
