@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: MERN stack and Kotlin
 - 📫 Let's connect: 
                     
-📫 [facebook][facebook]**|** 
+🙂 [facebook][facebook]**|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
@@ -19,5 +19,7 @@
 [facebook]: https://web.facebook.com/harini.chamathka.73
 [instagram]: https://www.instagram.com/queenchamaku
 [linkedin]: www.linkedin.com/in/harini-chamathka-kumbukgolla
+
+
 
 
