@@ -19,6 +19,10 @@
 [instagram]: https://www.instagram.com/queenchamaku
 [linkedin]: www.linkedin.com/in/harini-chamathka-kumbukgolla
 
+                                                                                     
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IT21269134)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harini-chamathka-kumbukgolla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/harini.chamathka.73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/queenchamaku/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/IT21269134)                                                                                      
+                                                                                     
+                                                                                     
 <p align ="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
