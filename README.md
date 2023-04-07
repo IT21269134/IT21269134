@@ -2,9 +2,9 @@
 
 <!-- ![Harini chamathka](http://raw.githubusercontent.com/IT21269134/IT21269134/main/girl.gif){width=500 height=500} -->
 
-
+<p align ="center"> 
 <img style="float: center"  alt="drawing" src="girl.gif"  width="250px" height="250px">
-
+</p>
 <!--
 **IT21269134/IT21269134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
