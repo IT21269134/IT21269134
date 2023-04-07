@@ -19,6 +19,6 @@
 [instagram]: https://www.instagram.com/queenchamaku
 [linkedin]: www.linkedin.com/in/harini-chamathka-kumbukgolla
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
 
 
