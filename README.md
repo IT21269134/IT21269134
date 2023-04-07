@@ -9,14 +9,15 @@
 
 - 🔭 I’m currently exploring: for new technologies
 - 🌱 I’m currently learning: MERN stack and Kotlin
-- 📫 Let's connect: [LinkedIn](www.linkedin.com/in/harini-chamathka-kumbukgolla)
-                    [Facebook](https://web.facebook.com/harini.chamathka.73)
-                    [Instergram](https://www.instagram.com/queenchamaku)
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 📫 Let's connect: 
+                    
+📫 [facebook][facebook]**|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[facebook]: https://web.facebook.com/harini.chamathka.73
+[instagram]: https://www.instagram.com/queenchamaku
+[linkedin]: www.linkedin.com/in/harini-chamathka-kumbukgolla
 
 
