@@ -1,10 +1,11 @@
-### <h1 align ="center"> Hi there I am Harini Chamathka👋</h1>
+### <h1 align ="center"> Hi there,<br/> I am Harini Chamathka👋</h1>
+ ### <p align ="center">Undergraduate Software Engineering Student</p>
 
 <p align ="center"> 
 <img style="float: center"  alt="drawing" src="girl.gif"  width="250px" height="250px">
 </p>
 
- <p align ="center">Undergraduate Software Engineering Student</p>
+
 
 - 🔭 I’m currently exploring: for new technologies
 - 🌱 I’m currently learning: MERN stack and Kotlin
