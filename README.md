@@ -1,5 +1,5 @@
-<!-- ### <h1 align ="center"> Hi there,<br/> I am Harini Chamathka👋</h1>
- ### <p align ="center">Undergraduate Software Engineering Student</p>
+### <h1 align ="center"> Hi there,<br/> I am Harini Chamathka👋</h1>
+ ### <p align ="center"> Software Engineering Undergraduate Student</p>
 
 <p align ="center"> 
 <img style="float: center"  alt="drawing" src="girl.gif"  width="250px" height="250px">
@@ -20,12 +20,16 @@
 [linkedin]: www.linkedin.com/in/harini-chamathka-kumbukgolla
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/IT21269134)
 
 
-### Hi there 👋, I'm Harini chamathka
+<!-- ### Hi there 👋, I'm Harini chamathka
 #### Software Engineering Undergraduate Student
 ![Software Engineering Undergraduate Student](https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966)
 
@@ -39,4 +43,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/IT21269134)  
+![Profile views](https://gpvc.arturio.dev/IT21269134)   -->
