@@ -4,7 +4,7 @@
 
 <img src="girl.gif" alt="drawing" width="200"/>
 
-<img style="float: right;" src="girl.gif"  width="500" height="500">
+<img style="float: center;" src="girl.gif"  width="750" height="500">
 
 <!--
 **IT21269134/IT21269134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
