@@ -9,11 +9,10 @@
 
 - 🔭 I’m currently exploring: for new technologies
 - 🌱 I’m currently learning: MERN stack and Kotlin
-- 📫 Let's connect: 
-                    
-🙂 [facebook][facebook]**|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+- 📫 Let's connect:                  
+               🙂 [facebook][facebook]**|** 
+               📷 [instagram][instagram] **|** 
+               👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [facebook]: https://web.facebook.com/harini.chamathka.73
