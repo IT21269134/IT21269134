@@ -21,13 +21,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p align ="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21269134)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21269134&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/IT21269134)
-
+</p>
 
 <!-- ### Hi there 👋, I'm Harini chamathka
 #### Software Engineering Undergraduate Student
