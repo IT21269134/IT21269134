@@ -6,8 +6,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21269134&label=Profile%20views&color=0e75b6&style=flat" alt="it21269134" /> </p>
-
 - 🔭 I’m currently exploring **for new technologies**
 
 - 🌱 I’m currently learning **MERN stack, Kotlin and Postgresql**
