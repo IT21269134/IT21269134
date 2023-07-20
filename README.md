@@ -7,10 +7,9 @@
 
 
 - 🔭 I’m currently exploring **for new technologies**
-
 - 🌱 I’m currently learning **MERN stack, Kotlin and Postgresql**
 - 🔭 ID *IT21269134*
-- 📫 How to reach me **harini.officails@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
