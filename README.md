@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently exploring **for new technologies**
-- 🌱 I’m currently learning **MERN stack, Kotlin and Postgresql**
+- 🌱 I’m currently learning **MERN stack, Kotlin **
 - 🔭 ID *IT21269134*
 
 
