@@ -2,7 +2,7 @@
  ### <p align ="center"> Software Engineering Undergraduate Student</p>
 
 <p align ="center"> 
-<img style="float: center"  alt="drawing" src="girl.gif"  width="550px" height=450px">
+<img style="float: center"  alt="drawing" src="AI chamz.webp"  width="850px" height=450px">
 </p>
 
 
